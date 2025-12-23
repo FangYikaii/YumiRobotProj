@@ -1,0 +1,13 @@
+2025-12-23 18:01:07,501 - RobotClient - INFO - 配置文件加载成功: resources/config.ini
+2025-12-23 18:01:12,813 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:01:12,815 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 192.168.125.1
+2025-12-23 18:01:12,816 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:01:12,817 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 18:01:12,818 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:01:12,826 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 192.168.125.1
+2025-12-23 18:01:12,828 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:01:12,828 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 18:01:12,829 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:01:12,831 - RobotClient - INFO - 配置项更新成功: [Communication] host = 192.168.125.1
+2025-12-23 18:01:12,832 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:01:12,832 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1023

@@ -1,0 +1,97 @@
+2025-12-23 17:45:18,599 - RobotClient - INFO - 配置文件加载成功: resources/config.ini
+2025-12-23 17:45:22,197 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:45:22,197 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 192.168.125.1
+2025-12-23 17:45:22,199 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:45:22,201 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 17:45:22,201 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:45:22,209 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 192.168.125.1
+2025-12-23 17:45:22,210 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:45:22,210 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 17:45:22,211 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:45:22,213 - RobotClient - INFO - 配置项更新成功: [Communication] host = 192.168.125.1
+2025-12-23 17:45:22,213 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:45:22,215 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1023
+2025-12-23 17:46:33,682 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:33,684 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 192.168.125.1
+2025-12-23 17:46:33,684 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:33,685 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 17:46:33,685 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:33,685 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 192.168.125.1
+2025-12-23 17:46:33,687 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:33,687 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 17:46:33,690 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:33,690 - RobotClient - INFO - 配置项更新成功: [Communication] host = 192.168.125.1
+2025-12-23 17:46:33,691 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:33,692 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1023
+2025-12-23 17:46:42,909 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:42,918 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 192.168.125.1
+2025-12-23 17:46:42,930 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:42,940 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 17:46:42,948 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:42,954 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 192.168.125.1
+2025-12-23 17:46:42,961 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:42,967 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 17:46:42,988 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:43,000 - RobotClient - INFO - 配置项更新成功: [Communication] host = 192.168.125.1
+2025-12-23 17:46:43,009 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:46:43,019 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1025
+2025-12-23 17:50:33,092 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:33,094 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 192.168.125.1
+2025-12-23 17:50:33,094 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:33,095 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 17:50:33,095 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:33,097 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 192.168.125.1
+2025-12-23 17:50:33,098 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:33,098 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 17:50:33,100 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:33,101 - RobotClient - INFO - 配置项更新成功: [Communication] host = 192.168.125.1
+2025-12-23 17:50:33,102 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:33,102 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1023
+2025-12-23 17:50:34,144 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:34,146 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 192.168.125.1
+2025-12-23 17:50:34,147 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:34,147 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 17:50:34,147 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:34,149 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 192.168.125.1
+2025-12-23 17:50:34,150 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:34,150 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 17:50:34,151 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:34,151 - RobotClient - INFO - 配置项更新成功: [Communication] host = 192.168.125.1
+2025-12-23 17:50:34,152 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:34,152 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1025
+2025-12-23 17:50:39,734 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:39,735 - RobotClient - INFO - 配置项更新成功: [File] excel_file = test_file.xlsx
+2025-12-23 17:50:39,735 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:50:39,737 - RobotClient - INFO - 配置项更新成功: [File] excel_file = test_file.xlsx
+2025-12-23 17:50:39,737 - RobotClient - INFO - 文件路径已更新 - Excel: test_file.xlsx, JSON: experimental_results.json, 结果目录: Experimental results
+2025-12-23 17:50:39,745 - RobotClient - INFO - Excel文件加载成功: test_file.xlsx, 工作表: Sheet1, 行数: 7, 列数: 5
+2025-12-23 17:50:39,747 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 1, 值: 物料1
+2025-12-23 17:50:39,747 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 2, 值: 10
+2025-12-23 17:50:39,747 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 3, 值: 1.1
+2025-12-23 17:50:39,747 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 4, 值: 2
+2025-12-23 17:50:39,747 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 5, 值: 8.1
+2025-12-23 17:50:39,748 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 1, 值: 物料2
+2025-12-23 17:50:39,748 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 2, 值: 15
+2025-12-23 17:50:39,748 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 3, 值: 1.2
+2025-12-23 17:50:39,748 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 4, 值: 2
+2025-12-23 17:50:39,750 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 5, 值: 8.1
+2025-12-23 17:50:39,750 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 1, 值: 物料3
+2025-12-23 17:50:39,750 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 2, 值: 20
+2025-12-23 17:50:39,751 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 3, 值: 1.3
+2025-12-23 17:50:39,751 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 4, 值: 3
+2025-12-23 17:50:39,751 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 5, 值: 8.1
+2025-12-23 17:50:39,751 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 1, 值: 物料4
+2025-12-23 17:50:39,752 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 2, 值: 25
+2025-12-23 17:50:39,753 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 3, 值: 1.4
+2025-12-23 17:50:39,753 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 4, 值: 3
+2025-12-23 17:50:39,753 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 5, 值: 8.1
+2025-12-23 17:50:39,753 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 1, 值: 物料5
+2025-12-23 17:50:39,753 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 2, 值: 30
+2025-12-23 17:50:39,753 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 3, 值: 1.5
+2025-12-23 17:50:39,755 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 4, 值: 4
+2025-12-23 17:50:39,755 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 5, 值: 8.1
+2025-12-23 17:50:39,755 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 1, 值: 物料6
+2025-12-23 17:50:39,755 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 2, 值: 35
+2025-12-23 17:50:39,755 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 3, 值: 1.6
+2025-12-23 17:50:39,756 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 4, 值: 4
+2025-12-23 17:50:39,756 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 5, 值: 8.1

@@ -1,0 +1,25 @@
+2025-12-23 18:36:01,999 - RobotClient - INFO - 配置文件加载成功: resources/config.ini
+2025-12-23 18:36:05,562 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:05,564 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 192.168.125.1
+2025-12-23 18:36:05,564 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:05,565 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 18:36:05,567 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:05,573 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 192.168.125.1
+2025-12-23 18:36:05,573 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:05,575 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 18:36:05,577 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:05,577 - RobotClient - INFO - 配置项更新成功: [Communication] host = 192.168.125.1
+2025-12-23 18:36:05,578 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:05,578 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1023
+2025-12-23 18:36:11,270 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:11,272 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 192.168.125.1
+2025-12-23 18:36:11,273 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:11,273 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 18:36:11,275 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:11,275 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 192.168.125.1
+2025-12-23 18:36:11,276 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:11,276 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 18:36:11,278 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:11,279 - RobotClient - INFO - 配置项更新成功: [Communication] host = 192.168.125.1
+2025-12-23 18:36:11,279 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 18:36:11,282 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1023

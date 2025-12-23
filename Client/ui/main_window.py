@@ -671,7 +671,9 @@ class MainWindow(QMainWindow):
             if control_connected:
                 self.status_bar.showMessage(f"已连接到控制端 {control_host}:{control_port}")
             else:
-                self.status_bar.showMessage("控制指令客户端连接失败，请检查服务器状态")
+                error_msg = f"控制指令客户端连接失败，请检查服务器状态\n{control_host}:{control_port}"
+                self.status_bar.showMessage(error_msg)
+                QMessageBox.critical(self, "连接失败", error_msg)
         
         # 更新连接状态
         self.update_connection_status()
@@ -701,7 +703,9 @@ class MainWindow(QMainWindow):
             if data_connected:
                 self.status_bar.showMessage(f"已连接到数据端 {data_host}:{data_port}")
             else:
-                self.status_bar.showMessage("数据回传客户端连接失败，请检查服务器状态")
+                error_msg = f"数据回传客户端连接失败，请检查服务器状态\n{data_host}:{data_port}"
+                self.status_bar.showMessage(error_msg)
+                QMessageBox.critical(self, "连接失败", error_msg)
         
         # 更新连接状态
         self.update_connection_status()
@@ -739,7 +743,13 @@ class MainWindow(QMainWindow):
             if control_connected and data_connected:
                 self.status_bar.showMessage(f"已连接到控制端 {control_host}:{control_port} 和数据端 {data_host}:{data_port}")
             else:
+                error_msg = "连接失败，请检查服务器状态\n"
+                if not control_connected:
+                    error_msg += f"控制端 {control_host}:{control_port} 连接失败\n"
+                if not data_connected:
+                    error_msg += f"数据端 {data_host}:{data_port} 连接失败"
                 self.status_bar.showMessage("部分连接失败，请检查服务器状态")
+                QMessageBox.critical(self, "连接失败", error_msg)
         
         # 更新连接状态
         self.update_connection_status()
@@ -1062,6 +1072,12 @@ class MainWindow(QMainWindow):
         """
         system_logger.error(f"通讯错误: {error_msg}")
         self.status_bar.showMessage(f"通讯错误: {error_msg}")
+        
+        # 显示错误提示框
+        QMessageBox.critical(self, "通讯错误", error_msg)
+        
+        # 更新连接状态
+        self.update_connection_status()
   
     def refresh_json_files(self):
         """

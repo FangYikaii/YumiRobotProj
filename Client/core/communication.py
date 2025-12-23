@@ -157,8 +157,10 @@ class TCPCommunication:
                 break
             except Exception as e:
                 self.logger.error(f"接收数据时发生错误: {e}")
+                self.is_connected = False
                 if self.error_callback:
                     self.error_callback(f"接收错误: {str(e)}")
+                break
     
     def send_data(self, data):
         """
