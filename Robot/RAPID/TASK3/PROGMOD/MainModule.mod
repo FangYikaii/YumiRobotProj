@@ -36,13 +36,16 @@ MODULE MainModule
     PROC ServerStart(bool Recover)
         IF Recover THEN
             TPWrite "ServerStart with recovery";
-            SocketClose scaleServerSocket;
-            SocketClose scaleClientSocket;
-            SocketClose commandServerSocket;
-            SocketClose commandClientSocket;
         ELSE
             TPWrite "ServerStart without recovery";
         ENDIF
+        
+        ! Always close sockets before creating new ones to avoid "socket already created" error
+        SocketClose scaleServerSocket;
+        SocketClose scaleClientSocket;
+        SocketClose commandServerSocket;
+        SocketClose commandClientSocket;
+        
         SocketCreate scaleServerSocket;
         SocketBind scaleServerSocket, "192.168.125.1", 1025;
         recv_reading := 0;
@@ -72,7 +75,7 @@ MODULE MainModule
                 TPWrite "Socket connection timed out while listenning";
                 RETRY;
             ELSEIF ERRNO=ERR_SOCK_CLOSED THEN
-                TPWrite "Can't start a server. Socket is  closed";
+                TPWrite "Can't start a server. Socket is closed";
                 RETURN;
             ELSE
                 TPWrite "Unknown error";
@@ -172,7 +175,7 @@ MODULE MainModule
                  recv_stable:=false;
             
            ELSE
-                      shake:=command{2};
+                shake:=command{2};
                 recv_reading:=command{3};
                 a_smallspoon:=command{4};
                  recv_stable:=TRUE;

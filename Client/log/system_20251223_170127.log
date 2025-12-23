@@ -1,0 +1,84 @@
+2025-12-23 17:01:28,364 - SYSTEM - INFO - 机器人上位机软件启动
+2025-12-23 17:01:28,378 - SYSTEM - INFO - 使用默认控制端口: 1023
+2025-12-23 17:01:28,378 - SYSTEM - INFO - 使用默认数据端口: 1025
+2025-12-23 17:01:30,992 - SYSTEM - INFO - 连接配置保存成功
+2025-12-23 17:01:31,551 - SYSTEM - INFO - 连接配置保存成功
+2025-12-23 17:01:42,034 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:43,029 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:44,041 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:45,035 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:46,035 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:47,029 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:48,042 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:49,038 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:50,030 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:51,032 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:52,031 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:53,029 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:54,025 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:55,030 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:56,036 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:57,033 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:58,028 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:01:59,039 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:00,036 - SYSTEM - INFO - 不保存数据，当前文件名为Unknown: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:00,874 - SYSTEM - INFO - 获取到有效目标重量: 10.0 g
+2025-12-23 17:02:00,874 - SYSTEM - INFO - 获取到有效密度: 1.1
+2025-12-23 17:02:00,874 - SYSTEM - INFO - 获取到有效颗粒大小: 2.0
+2025-12-23 17:02:00,876 - SYSTEM - INFO - 获取到有效空瓶重: 8.1 g
+2025-12-23 17:02:01,031 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:02,027 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:03,037 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:04,045 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:05,028 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:06,030 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:07,037 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:08,036 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:09,033 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:10,030 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:11,027 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:12,039 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:13,029 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:14,024 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:15,031 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:16,045 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:17,037 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:18,039 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:19,028 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:20,024 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:21,041 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:22,048 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:23,031 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:24,036 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:25,026 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:26,036 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:27,029 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:28,029 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:28,642 - SYSTEM - INFO - 获取到有效目标重量: 15.0 g
+2025-12-23 17:02:28,642 - SYSTEM - INFO - 获取到有效密度: 1.2
+2025-12-23 17:02:28,642 - SYSTEM - INFO - 获取到有效颗粒大小: 2.0
+2025-12-23 17:02:28,642 - SYSTEM - INFO - 获取到有效空瓶重: 8.1 g
+2025-12-23 17:02:29,028 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:29,648 - SYSTEM - INFO - 获取到有效目标重量: 20.0 g
+2025-12-23 17:02:29,648 - SYSTEM - INFO - 获取到有效密度: 1.3
+2025-12-23 17:02:29,648 - SYSTEM - INFO - 获取到有效颗粒大小: 3.0
+2025-12-23 17:02:29,650 - SYSTEM - INFO - 获取到有效空瓶重: 8.1 g
+2025-12-23 17:02:30,044 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:30,642 - SYSTEM - INFO - 获取到有效目标重量: 25.0 g
+2025-12-23 17:02:30,643 - SYSTEM - INFO - 获取到有效密度: 1.4
+2025-12-23 17:02:30,643 - SYSTEM - INFO - 获取到有效颗粒大小: 3.0
+2025-12-23 17:02:30,644 - SYSTEM - INFO - 获取到有效空瓶重: 8.1 g
+2025-12-23 17:02:31,037 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:31,652 - SYSTEM - INFO - 获取到有效目标重量: 30.0 g
+2025-12-23 17:02:31,654 - SYSTEM - INFO - 获取到有效密度: 1.5
+2025-12-23 17:02:31,654 - SYSTEM - INFO - 获取到有效颗粒大小: 4.0
+2025-12-23 17:02:31,654 - SYSTEM - INFO - 获取到有效空瓶重: 8.1 g
+2025-12-23 17:02:32,030 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:32,648 - SYSTEM - INFO - 获取到有效目标重量: 35.0 g
+2025-12-23 17:02:32,650 - SYSTEM - INFO - 获取到有效密度: 1.6
+2025-12-23 17:02:32,650 - SYSTEM - INFO - 获取到有效颗粒大小: 4.0
+2025-12-23 17:02:32,650 - SYSTEM - INFO - 获取到有效空瓶重: 8.1 g
+2025-12-23 17:02:33,045 - SYSTEM - INFO - 保存数据到JSON文件: {'accuracy': 1.0, 'difference': 1.0, 'target_weight': 1.0, 'time': 1.0}
+2025-12-23 17:02:59,839 - SYSTEM - ERROR - 通讯错误: 接收错误: [WinError 10038] 在一个非套接字上尝试了一个操作。
+2025-12-23 17:02:59,839 - SYSTEM - ERROR - 通讯错误: 接收错误: [WinError 10038] 在一个非套接字上尝试了一个操作。
+2025-12-23 17:02:59,881 - SYSTEM - INFO - 机器人上位机软件退出，退出码: 0

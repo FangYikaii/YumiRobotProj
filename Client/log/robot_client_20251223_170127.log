@@ -1,0 +1,350 @@
+2025-12-23 17:01:27,983 - RobotClient - INFO - 配置文件加载成功: resources/config.ini
+2025-12-23 17:01:28,379 - RobotClient - INFO - 创建目录成功: Experimental results
+2025-12-23 17:01:30,987 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:30,987 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 127.0.0.1
+2025-12-23 17:01:30,989 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:30,989 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 17:01:30,990 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:30,990 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 127.0.0.1
+2025-12-23 17:01:30,992 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:30,992 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 17:01:30,992 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:30,992 - RobotClient - INFO - 配置项更新成功: [Communication] host = 127.0.0.1
+2025-12-23 17:01:30,993 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:30,993 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1023
+2025-12-23 17:01:31,546 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:31,546 - RobotClient - INFO - 配置项更新成功: [Communication] control_host = 127.0.0.1
+2025-12-23 17:01:31,548 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:31,548 - RobotClient - INFO - 配置项更新成功: [Communication] control_port = 1023
+2025-12-23 17:01:31,549 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:31,549 - RobotClient - INFO - 配置项更新成功: [Communication] data_host = 127.0.0.1
+2025-12-23 17:01:31,549 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:31,551 - RobotClient - INFO - 配置项更新成功: [Communication] data_port = 1025
+2025-12-23 17:01:31,551 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:31,551 - RobotClient - INFO - 配置项更新成功: [Communication] host = 127.0.0.1
+2025-12-23 17:01:31,551 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:31,551 - RobotClient - INFO - 配置项更新成功: [Communication] port = 1025
+2025-12-23 17:01:31,847 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:31,848 - RobotClient - DEBUG - 生成模拟重量: 13.532986299564097 g
+2025-12-23 17:01:31,848 - RobotClient - INFO - 获取到重量数据: 13.532986299564097 g
+2025-12-23 17:01:32,849 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:32,851 - RobotClient - DEBUG - 生成模拟重量: 6.642003191675573 g
+2025-12-23 17:01:32,851 - RobotClient - INFO - 获取到重量数据: 6.642003191675573 g
+2025-12-23 17:01:33,012 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:33,012 - RobotClient - INFO - 配置项更新成功: [File] excel_file = test_file.xlsx
+2025-12-23 17:01:33,014 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:01:33,014 - RobotClient - INFO - 配置项更新成功: [File] excel_file = test_file.xlsx
+2025-12-23 17:01:33,014 - RobotClient - INFO - 文件路径已更新 - Excel: test_file.xlsx, JSON: experimental_results.json, 结果目录: Experimental results
+2025-12-23 17:01:33,020 - RobotClient - INFO - Excel文件加载成功: test_file.xlsx, 工作表: Sheet1, 行数: 7, 列数: 5
+2025-12-23 17:01:33,021 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 1, 值: 物料1
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 2, 值: 10
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 3, 值: 1.1
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 4, 值: 2
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 5, 值: 8.1
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 1, 值: 物料2
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 2, 值: 15
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 3, 值: 1.2
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 4, 值: 2
+2025-12-23 17:01:33,022 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 5, 值: 8.1
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 1, 值: 物料3
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 2, 值: 20
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 3, 值: 1.3
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 4, 值: 3
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 5, 值: 8.1
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 1, 值: 物料4
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 2, 值: 25
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 3, 值: 1.4
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 4, 值: 3
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 5, 值: 8.1
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 1, 值: 物料5
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 2, 值: 30
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 3, 值: 1.5
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 4, 值: 4
+2025-12-23 17:01:33,023 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 5, 值: 8.1
+2025-12-23 17:01:33,024 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 1, 值: 物料6
+2025-12-23 17:01:33,024 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 2, 值: 35
+2025-12-23 17:01:33,024 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 3, 值: 1.6
+2025-12-23 17:01:33,024 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 4, 值: 4
+2025-12-23 17:01:33,024 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 5, 值: 8.1
+2025-12-23 17:01:33,839 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:33,839 - RobotClient - DEBUG - 生成模拟重量: 6.491104699352589 g
+2025-12-23 17:01:33,839 - RobotClient - INFO - 获取到重量数据: 6.491104699352589 g
+2025-12-23 17:01:34,836 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:34,836 - RobotClient - DEBUG - 生成模拟重量: 11.381792096389272 g
+2025-12-23 17:01:34,836 - RobotClient - INFO - 获取到重量数据: 11.381792096389272 g
+2025-12-23 17:01:35,834 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:35,834 - RobotClient - DEBUG - 生成模拟重量: 5.319422975351415 g
+2025-12-23 17:01:35,834 - RobotClient - INFO - 获取到重量数据: 5.319422975351415 g
+2025-12-23 17:01:36,844 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:36,844 - RobotClient - DEBUG - 生成模拟重量: 13.867648967279333 g
+2025-12-23 17:01:36,845 - RobotClient - INFO - 获取到重量数据: 13.867648967279333 g
+2025-12-23 17:01:37,841 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:37,841 - RobotClient - DEBUG - 生成模拟重量: 13.124868475466574 g
+2025-12-23 17:01:37,841 - RobotClient - INFO - 获取到重量数据: 13.124868475466574 g
+2025-12-23 17:01:38,834 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:38,834 - RobotClient - DEBUG - 生成模拟重量: 11.856575116471175 g
+2025-12-23 17:01:38,834 - RobotClient - INFO - 获取到重量数据: 11.856575116471175 g
+2025-12-23 17:01:39,851 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:39,851 - RobotClient - DEBUG - 生成模拟重量: 5.9119086665683565 g
+2025-12-23 17:01:39,851 - RobotClient - INFO - 获取到重量数据: 5.9119086665683565 g
+2025-12-23 17:01:40,852 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:40,854 - RobotClient - DEBUG - 生成模拟重量: 12.486475811403746 g
+2025-12-23 17:01:40,854 - RobotClient - INFO - 获取到重量数据: 12.486475811403746 g
+2025-12-23 17:01:41,845 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:41,845 - RobotClient - DEBUG - 生成模拟重量: 9.459090719745195 g
+2025-12-23 17:01:41,847 - RobotClient - INFO - 获取到重量数据: 9.459090719745195 g
+2025-12-23 17:01:42,838 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:42,839 - RobotClient - DEBUG - 生成模拟重量: 6.5560244212724275 g
+2025-12-23 17:01:42,839 - RobotClient - INFO - 获取到重量数据: 6.5560244212724275 g
+2025-12-23 17:01:43,836 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:43,836 - RobotClient - DEBUG - 生成模拟重量: 5.913184870270452 g
+2025-12-23 17:01:43,836 - RobotClient - INFO - 获取到重量数据: 5.913184870270452 g
+2025-12-23 17:01:44,847 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:44,848 - RobotClient - DEBUG - 生成模拟重量: 11.776169191537292 g
+2025-12-23 17:01:44,848 - RobotClient - INFO - 获取到重量数据: 11.776169191537292 g
+2025-12-23 17:01:45,843 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:45,843 - RobotClient - DEBUG - 生成模拟重量: 9.727518926118798 g
+2025-12-23 17:01:45,843 - RobotClient - INFO - 获取到重量数据: 9.727518926118798 g
+2025-12-23 17:01:46,855 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:46,855 - RobotClient - DEBUG - 生成模拟重量: 14.50025745731237 g
+2025-12-23 17:01:46,856 - RobotClient - INFO - 获取到重量数据: 14.50025745731237 g
+2025-12-23 17:01:47,851 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:01:47,852 - RobotClient - DEBUG - 生成模拟重量: 13.98630482940121 g
+2025-12-23 17:01:47,852 - RobotClient - INFO - 获取到重量数据: 13.98630482940121 g
+2025-12-23 17:02:00,871 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:00,873 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 1, 值: 物料1
+2025-12-23 17:02:00,873 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 2, 值: 10
+2025-12-23 17:02:00,873 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 3, 值: 1.1
+2025-12-23 17:02:00,874 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 4, 值: 2
+2025-12-23 17:02:00,874 - RobotClient - DEBUG - 获取单元格值: 行 2, 列 5, 值: 8.1
+2025-12-23 17:02:00,876 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:00,876 - RobotClient - INFO - 配置项更新成功: [Parameters] density = 1.1
+2025-12-23 17:02:00,876 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:00,876 - RobotClient - INFO - 配置项更新成功: [Parameters] vial_weight = 8.1
+2025-12-23 17:02:00,878 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:00,878 - RobotClient - INFO - 配置项更新成功: [Parameters] particle_size = 2.0
+2025-12-23 17:02:00,878 - RobotClient - INFO - 参数已更新 - 密度: 1.1, 瓶重: 8.1 g, 颗粒大小: 2.0, 模拟重量: True
+2025-12-23 17:02:00,879 - RobotClient - DEBUG - 生成模拟重量: 6.54533673229707 g
+2025-12-23 17:02:00,879 - RobotClient - INFO - 获取到重量数据: 6.54533673229707 g
+2025-12-23 17:02:00,881 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 6.54533673229707 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:00,881 - RobotClient - DEBUG - 重量差值: 3.45466326770293 g, 差值百分比: 34.5466326770293%
+2025-12-23 17:02:00,881 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:06,550 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:06,550 - RobotClient - DEBUG - 生成模拟重量: 5.53404752951188 g
+2025-12-23 17:02:06,550 - RobotClient - INFO - 获取到重量数据: 5.53404752951188 g
+2025-12-23 17:02:06,550 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 5.53404752951188 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:06,550 - RobotClient - DEBUG - 重量差值: 4.46595247048812 g, 差值百分比: 44.65952470488121%
+2025-12-23 17:02:06,550 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:07,561 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:07,561 - RobotClient - DEBUG - 生成模拟重量: 9.233904542057111 g
+2025-12-23 17:02:07,561 - RobotClient - INFO - 获取到重量数据: 9.233904542057111 g
+2025-12-23 17:02:07,562 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 9.233904542057111 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:07,562 - RobotClient - DEBUG - 重量差值: 0.7660954579428889 g, 差值百分比: 7.660954579428888%
+2025-12-23 17:02:07,562 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 18.18181818181818, 抖动角度: 13.636363636363637
+2025-12-23 17:02:08,556 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:08,557 - RobotClient - DEBUG - 生成模拟重量: 12.849003493964855 g
+2025-12-23 17:02:08,557 - RobotClient - INFO - 获取到重量数据: 12.849003493964855 g
+2025-12-23 17:02:08,557 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 12.849003493964855 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:08,557 - RobotClient - DEBUG - 重量差值: 2.8490034939648545 g, 差值百分比: 28.490034939648545%
+2025-12-23 17:02:08,557 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:09,568 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:09,569 - RobotClient - DEBUG - 生成模拟重量: 12.019118341523562 g
+2025-12-23 17:02:09,569 - RobotClient - INFO - 获取到重量数据: 12.019118341523562 g
+2025-12-23 17:02:09,569 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 12.019118341523562 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:09,569 - RobotClient - DEBUG - 重量差值: 2.019118341523562 g, 差值百分比: 20.19118341523562%
+2025-12-23 17:02:09,569 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:10,567 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:10,567 - RobotClient - DEBUG - 生成模拟重量: 10.936062828495038 g
+2025-12-23 17:02:10,568 - RobotClient - INFO - 获取到重量数据: 10.936062828495038 g
+2025-12-23 17:02:10,568 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 10.936062828495038 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:10,568 - RobotClient - DEBUG - 重量差值: 0.9360628284950376 g, 差值百分比: 9.360628284950376%
+2025-12-23 17:02:10,568 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 18.18181818181818, 抖动角度: 13.636363636363637
+2025-12-23 17:02:11,560 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:11,560 - RobotClient - DEBUG - 生成模拟重量: 6.818390504548795 g
+2025-12-23 17:02:11,561 - RobotClient - INFO - 获取到重量数据: 6.818390504548795 g
+2025-12-23 17:02:11,561 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 6.818390504548795 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:11,561 - RobotClient - DEBUG - 重量差值: 3.1816094954512053 g, 差值百分比: 31.816094954512053%
+2025-12-23 17:02:11,561 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:12,563 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:12,563 - RobotClient - DEBUG - 生成模拟重量: 8.665733927282666 g
+2025-12-23 17:02:12,563 - RobotClient - INFO - 获取到重量数据: 8.665733927282666 g
+2025-12-23 17:02:12,564 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 8.665733927282666 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:12,564 - RobotClient - DEBUG - 重量差值: 1.3342660727173339 g, 差值百分比: 13.342660727173339%
+2025-12-23 17:02:12,564 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 18.18181818181818, 抖动角度: 13.636363636363637
+2025-12-23 17:02:13,551 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:13,551 - RobotClient - DEBUG - 生成模拟重量: 8.297490557848429 g
+2025-12-23 17:02:13,551 - RobotClient - INFO - 获取到重量数据: 8.297490557848429 g
+2025-12-23 17:02:13,551 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 8.297490557848429 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:13,551 - RobotClient - DEBUG - 重量差值: 1.7025094421515714 g, 差值百分比: 17.025094421515714%
+2025-12-23 17:02:13,551 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 18.18181818181818, 抖动角度: 13.636363636363637
+2025-12-23 17:02:14,555 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:14,556 - RobotClient - DEBUG - 生成模拟重量: 14.634954614958795 g
+2025-12-23 17:02:14,558 - RobotClient - INFO - 获取到重量数据: 14.634954614958795 g
+2025-12-23 17:02:14,558 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 14.634954614958795 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:14,558 - RobotClient - DEBUG - 重量差值: 4.6349546149587955 g, 差值百分比: 46.34954614958796%
+2025-12-23 17:02:14,560 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:15,567 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:15,568 - RobotClient - DEBUG - 生成模拟重量: 8.019751729633413 g
+2025-12-23 17:02:15,568 - RobotClient - INFO - 获取到重量数据: 8.019751729633413 g
+2025-12-23 17:02:15,568 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 8.019751729633413 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:15,568 - RobotClient - DEBUG - 重量差值: 1.9802482703665873 g, 差值百分比: 19.802482703665873%
+2025-12-23 17:02:15,568 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 18.18181818181818, 抖动角度: 13.636363636363637
+2025-12-23 17:02:16,563 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:16,564 - RobotClient - DEBUG - 生成模拟重量: 5.344915084674136 g
+2025-12-23 17:02:16,564 - RobotClient - INFO - 获取到重量数据: 5.344915084674136 g
+2025-12-23 17:02:16,566 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 5.344915084674136 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:16,566 - RobotClient - DEBUG - 重量差值: 4.655084915325864 g, 差值百分比: 46.550849153258646%
+2025-12-23 17:02:16,566 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:17,559 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:17,559 - RobotClient - DEBUG - 生成模拟重量: 8.004760747388925 g
+2025-12-23 17:02:17,559 - RobotClient - INFO - 获取到重量数据: 8.004760747388925 g
+2025-12-23 17:02:17,561 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 8.004760747388925 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:17,561 - RobotClient - DEBUG - 重量差值: 1.995239252611075 g, 差值百分比: 19.95239252611075%
+2025-12-23 17:02:17,561 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 18.18181818181818, 抖动角度: 13.636363636363637
+2025-12-23 17:02:18,569 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:18,569 - RobotClient - DEBUG - 生成模拟重量: 9.940978585993033 g
+2025-12-23 17:02:18,570 - RobotClient - INFO - 获取到重量数据: 9.940978585993033 g
+2025-12-23 17:02:18,572 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 9.940978585993033 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:18,572 - RobotClient - DEBUG - 重量差值: 0.05902141400696692 g, 差值百分比: 0.5902141400696692%
+2025-12-23 17:02:18,572 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 4.545454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:19,565 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:19,566 - RobotClient - DEBUG - 生成模拟重量: 12.61976343564114 g
+2025-12-23 17:02:19,566 - RobotClient - INFO - 获取到重量数据: 12.61976343564114 g
+2025-12-23 17:02:19,567 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 12.61976343564114 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:19,567 - RobotClient - DEBUG - 重量差值: 2.61976343564114 g, 差值百分比: 26.1976343564114%
+2025-12-23 17:02:19,567 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:20,562 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:20,563 - RobotClient - DEBUG - 生成模拟重量: 7.376835128549874 g
+2025-12-23 17:02:20,563 - RobotClient - INFO - 获取到重量数据: 7.376835128549874 g
+2025-12-23 17:02:20,565 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 7.376835128549874 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:20,565 - RobotClient - DEBUG - 重量差值: 2.6231648714501263 g, 差值百分比: 26.231648714501265%
+2025-12-23 17:02:20,566 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 45.45454545454545, 抖动角度: 13.636363636363637
+2025-12-23 17:02:21,556 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:21,556 - RobotClient - DEBUG - 生成模拟重量: 8.257949576945853 g
+2025-12-23 17:02:21,557 - RobotClient - INFO - 获取到重量数据: 8.257949576945853 g
+2025-12-23 17:02:21,558 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 8.257949576945853 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:21,558 - RobotClient - DEBUG - 重量差值: 1.7420504230541471 g, 差值百分比: 17.42050423054147%
+2025-12-23 17:02:21,558 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 18.18181818181818, 抖动角度: 13.636363636363637
+2025-12-23 17:02:22,573 - RobotClient - INFO - 收到'executing'指令: 'executing'
+2025-12-23 17:02:22,573 - RobotClient - DEBUG - 生成模拟重量: 10.703148107519782 g
+2025-12-23 17:02:22,573 - RobotClient - INFO - 获取到重量数据: 10.703148107519782 g
+2025-12-23 17:02:22,573 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 10.0 g, 当前重量: 10.703148107519782 g, 密度: 1.1, 颗粒大小: 2.0
+2025-12-23 17:02:22,573 - RobotClient - DEBUG - 重量差值: 0.7031481075197821 g, 差值百分比: 7.031481075197821%
+2025-12-23 17:02:22,574 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 18.18181818181818, 抖动角度: 13.636363636363637
+2025-12-23 17:02:28,639 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:28,641 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 1, 值: 物料2
+2025-12-23 17:02:28,641 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 2, 值: 15
+2025-12-23 17:02:28,641 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 3, 值: 1.2
+2025-12-23 17:02:28,641 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 4, 值: 2
+2025-12-23 17:02:28,641 - RobotClient - DEBUG - 获取单元格值: 行 3, 列 5, 值: 8.1
+2025-12-23 17:02:28,644 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:28,644 - RobotClient - INFO - 配置项更新成功: [Parameters] density = 1.2
+2025-12-23 17:02:28,644 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:28,644 - RobotClient - INFO - 配置项更新成功: [Parameters] vial_weight = 8.1
+2025-12-23 17:02:28,646 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:28,646 - RobotClient - INFO - 配置项更新成功: [Parameters] particle_size = 2.0
+2025-12-23 17:02:28,646 - RobotClient - INFO - 参数已更新 - 密度: 1.2, 瓶重: 8.1 g, 颗粒大小: 2.0, 模拟重量: True
+2025-12-23 17:02:28,646 - RobotClient - DEBUG - 生成模拟重量: 13.384331107423856 g
+2025-12-23 17:02:28,646 - RobotClient - INFO - 获取到重量数据: 13.384331107423856 g
+2025-12-23 17:02:28,647 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 15.0 g, 当前重量: 13.384331107423856 g, 密度: 1.2, 颗粒大小: 2.0
+2025-12-23 17:02:28,647 - RobotClient - DEBUG - 重量差值: 1.615668892576144 g, 差值百分比: 10.771125950507626%
+2025-12-23 17:02:28,647 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 16.666666666666668, 抖动角度: 12.5
+2025-12-23 17:02:29,645 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:29,646 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 1, 值: 物料3
+2025-12-23 17:02:29,646 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 2, 值: 20
+2025-12-23 17:02:29,646 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 3, 值: 1.3
+2025-12-23 17:02:29,646 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 4, 值: 3
+2025-12-23 17:02:29,646 - RobotClient - DEBUG - 获取单元格值: 行 4, 列 5, 值: 8.1
+2025-12-23 17:02:29,651 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:29,651 - RobotClient - INFO - 配置项更新成功: [Parameters] density = 1.3
+2025-12-23 17:02:29,651 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:29,651 - RobotClient - INFO - 配置项更新成功: [Parameters] vial_weight = 8.1
+2025-12-23 17:02:29,651 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:29,653 - RobotClient - INFO - 配置项更新成功: [Parameters] particle_size = 3.0
+2025-12-23 17:02:29,653 - RobotClient - INFO - 参数已更新 - 密度: 1.3, 瓶重: 8.1 g, 颗粒大小: 3.0, 模拟重量: True
+2025-12-23 17:02:29,653 - RobotClient - DEBUG - 生成模拟重量: 5.194523501705353 g
+2025-12-23 17:02:29,653 - RobotClient - INFO - 获取到重量数据: 5.194523501705353 g
+2025-12-23 17:02:29,653 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 20.0 g, 当前重量: 5.194523501705353 g, 密度: 1.3, 颗粒大小: 3.0
+2025-12-23 17:02:29,653 - RobotClient - DEBUG - 重量差值: 14.805476498294647 g, 差值百分比: 74.02738249147323%
+2025-12-23 17:02:29,654 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 76.92307692307692, 抖动角度: 7.692307692307692
+2025-12-23 17:02:30,639 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:30,640 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 1, 值: 物料4
+2025-12-23 17:02:30,640 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 2, 值: 25
+2025-12-23 17:02:30,640 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 3, 值: 1.4
+2025-12-23 17:02:30,642 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 4, 值: 3
+2025-12-23 17:02:30,642 - RobotClient - DEBUG - 获取单元格值: 行 5, 列 5, 值: 8.1
+2025-12-23 17:02:30,644 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:30,644 - RobotClient - INFO - 配置项更新成功: [Parameters] density = 1.4
+2025-12-23 17:02:30,646 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:30,646 - RobotClient - INFO - 配置项更新成功: [Parameters] vial_weight = 8.1
+2025-12-23 17:02:30,646 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:30,648 - RobotClient - INFO - 配置项更新成功: [Parameters] particle_size = 3.0
+2025-12-23 17:02:30,648 - RobotClient - INFO - 参数已更新 - 密度: 1.4, 瓶重: 8.1 g, 颗粒大小: 3.0, 模拟重量: True
+2025-12-23 17:02:30,648 - RobotClient - DEBUG - 生成模拟重量: 8.99545382133779 g
+2025-12-23 17:02:30,648 - RobotClient - INFO - 获取到重量数据: 8.99545382133779 g
+2025-12-23 17:02:30,649 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 25.0 g, 当前重量: 8.99545382133779 g, 密度: 1.4, 颗粒大小: 3.0
+2025-12-23 17:02:30,649 - RobotClient - DEBUG - 重量差值: 16.00454617866221 g, 差值百分比: 64.01818471464884%
+2025-12-23 17:02:30,649 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 71.42857142857143, 抖动角度: 7.142857142857143
+2025-12-23 17:02:31,651 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:31,651 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 1, 值: 物料5
+2025-12-23 17:02:31,652 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 2, 值: 30
+2025-12-23 17:02:31,652 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 3, 值: 1.5
+2025-12-23 17:02:31,652 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 4, 值: 4
+2025-12-23 17:02:31,652 - RobotClient - DEBUG - 获取单元格值: 行 6, 列 5, 值: 8.1
+2025-12-23 17:02:31,656 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:31,656 - RobotClient - INFO - 配置项更新成功: [Parameters] density = 1.5
+2025-12-23 17:02:31,656 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:31,657 - RobotClient - INFO - 配置项更新成功: [Parameters] vial_weight = 8.1
+2025-12-23 17:02:31,657 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:31,657 - RobotClient - INFO - 配置项更新成功: [Parameters] particle_size = 4.0
+2025-12-23 17:02:31,657 - RobotClient - INFO - 参数已更新 - 密度: 1.5, 瓶重: 8.1 g, 颗粒大小: 4.0, 模拟重量: True
+2025-12-23 17:02:31,659 - RobotClient - DEBUG - 生成模拟重量: 9.974496740848044 g
+2025-12-23 17:02:31,659 - RobotClient - INFO - 获取到重量数据: 9.974496740848044 g
+2025-12-23 17:02:31,659 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 30.0 g, 当前重量: 9.974496740848044 g, 密度: 1.5, 颗粒大小: 4.0
+2025-12-23 17:02:31,659 - RobotClient - DEBUG - 重量差值: 20.025503259151954 g, 差值百分比: 66.75167753050651%
+2025-12-23 17:02:31,659 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 66.66666666666666, 抖动角度: 6.666666666666666
+2025-12-23 17:02:32,647 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:32,647 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 1, 值: 物料6
+2025-12-23 17:02:32,648 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 2, 值: 35
+2025-12-23 17:02:32,648 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 3, 值: 1.6
+2025-12-23 17:02:32,648 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 4, 值: 4
+2025-12-23 17:02:32,648 - RobotClient - DEBUG - 获取单元格值: 行 7, 列 5, 值: 8.1
+2025-12-23 17:02:32,651 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:32,652 - RobotClient - INFO - 配置项更新成功: [Parameters] density = 1.6
+2025-12-23 17:02:32,654 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:32,655 - RobotClient - INFO - 配置项更新成功: [Parameters] vial_weight = 8.1
+2025-12-23 17:02:32,656 - RobotClient - INFO - 配置文件保存成功: resources/config.ini
+2025-12-23 17:02:32,657 - RobotClient - INFO - 配置项更新成功: [Parameters] particle_size = 4.0
+2025-12-23 17:02:32,659 - RobotClient - INFO - 参数已更新 - 密度: 1.6, 瓶重: 8.1 g, 颗粒大小: 4.0, 模拟重量: True
+2025-12-23 17:02:32,660 - RobotClient - DEBUG - 生成模拟重量: 6.427754705376021 g
+2025-12-23 17:02:32,660 - RobotClient - INFO - 获取到重量数据: 6.427754705376021 g
+2025-12-23 17:02:32,661 - RobotClient - DEBUG - 开始计算抖动参数 - 目标重量: 35.0 g, 当前重量: 6.427754705376021 g, 密度: 1.6, 颗粒大小: 4.0
+2025-12-23 17:02:32,661 - RobotClient - DEBUG - 重量差值: 28.57224529462398 g, 差值百分比: 81.63498655606851%
+2025-12-23 17:02:32,661 - RobotClient - DEBUG - 计算完成 - 抖动幅度: 62.5, 抖动角度: 6.25
+2025-12-23 17:02:33,650 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:34,638 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:35,649 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:36,646 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:37,640 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:38,633 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:39,650 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:40,650 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:41,654 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:42,641 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:43,659 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:44,654 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:45,643 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:46,651 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:47,645 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:48,639 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:49,658 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:50,652 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:51,652 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:52,647 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:53,644 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:54,641 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:55,633 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:56,643 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:57,637 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:58,648 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量
+2025-12-23 17:02:59,642 - RobotClient - INFO - 收到'new_target'指令，准备获取新目标重量

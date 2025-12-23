@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Python: File_client",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python": "C:\\Users\\34236\\anaconda3\\envs\\robot\\python.exe",
+            "env": {
+                "PYTHONPATH": "C:\\Users\\34236\\anaconda3\\envs\\robot\\Lib\\site-packages"
+            }
+        }
+    ]
+}
